@@ -1,0 +1,7 @@
+{
+    "driver": "ODBC Driver 17 for SQL Server",
+    "server": "ULTRON-T\\AXSQLEXPRESS2017",
+    "database": "CAMPO_VERDE_ARENALES",
+    "user": "sa",
+    "password": "Axoft1988"
+}
