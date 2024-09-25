@@ -1,0 +1,14 @@
+tkinter (si no funciona, intentar la de abajo)
+Tk interface
+escpos
+pillow
+python-escpos Pillow
+tkcalendar 
+ttkthemes
+libusb1
+pyusb
+reportlab
+
+- Convertir en ejecutable
+pyinstaller
+py -m pyinstaller --onefile --noconsole tu_script.py
